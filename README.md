@@ -3,6 +3,6 @@
 ## Preview
 
 <a href="http://airbnb-clone-psi-coral.vercel.app/">
-  <img align="left" alt="Airbnb-clone" width="auto" height="40px" src="https://github.com/SuvarneshKM/SuvarneshKM/blob/main/icons/icons8-twitter.svg" />
+  <img align="left" alt="Airbnb-clone" width="auto" height="auto" src="https://github.com/SuvarneshKM/airbnb-clone/blob/main/public/airbnb-clone.jpg" />
 </a>
 
